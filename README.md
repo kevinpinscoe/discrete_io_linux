@@ -12,11 +12,11 @@ Discrete I/O is sending and receiving digital signals external to a computer whi
 
 ## Applications
 
-There are many applications such sensing of water is present above a certain line such as in a basement. It can be used in Ham Radio to sense when a antenna rotor is past a certain point or at a stop. A switch can be made to sense when an analog action such as humidity has reached a certain point and turns of a switch for a specified action. And of course a discrete can be used in a property alarm to detect a open door or a broken glass which would then raise an alarm.
+There are many applications such as sensing of water is present above a certain line such as in a basement. It can be used in Ham Radio to sense when a antenna rotor is past a certain point or at a stop. A switch can be made to sense when an analog action such as humidity has reached a certain point and turns of a switch for a specified action. And of course a discrete can be used in a property alarm to detect an open door or a broken window which would then raise an alarm.
 
 ## Why discrete?
 
-Another type of computer input would be analog. An analog input would have a value to it such as a temperature reading or a water level. While this value would be vary useful it may be too complex and more expensive to provide both in the interface and in the measuring device. Discrete provides an economical way of signaling when a simple solution is required. 
+Another type of computer input would be analog. An analog input would have a value to it such as a temperature reading or a water level. While this value would be vary useful it may be too complex and more expensive to provide values both in the interface and in the measuring device. Discrete provides an economical way of signaling when a simple solution or single state is required. 
 
 ## Why Linux?
 
