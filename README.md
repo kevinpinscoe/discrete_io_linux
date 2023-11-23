@@ -1,4 +1,6 @@
-# Combined with my book "Discrete I/O Programming in Linux" (publishing pending) are some code examples of my experiments into the subject.
+# "Discrete I/O Programming in Linux"
+
+Combined with my book "Discrete I/O Programming in Linux" (publishing pending) are some code examples of my experiments into the subject.
 
 This is a work in progress.
 
