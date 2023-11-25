@@ -25,3 +25,10 @@ It is open source, easy to work with, freely available and can work in a small f
 ## Sample uses
 
 TBA
+
+## Interfaces
+
+There are discrete I/O boards you can buy for a Linux PC that have many inputs but I will focus here on already present hardware in most PC's such as the RS-232 serial port and the Universal Serial Bus known as "USB". Legacy PC's had additional ports that could be used for discrete such as PS/2, Centronics style parallel printer ports and IEEE 139 (Firewire) ports but they are long out of manufacture so I wont cover them here. Note that te Raspberry Pi has many discrete I/O options available including General-Purpose Input/Output (GPIO) which we will cover in later chapters. If you are interested in using the parallel port and you have the hardware still around I suggest reading Linux Device Drivers, Second Edition by O'Reilly. A note on special discrete I/O boards. I have worked in the past with special somewhat expensive discrete I/O and coded and modulated timing controlled Inter-range instrumentation group (IRIG) boards. I wont cover that here either since this is covered elsewhere. This work covers simply off the shelf, readily available and commodity based PC computers.
+
+
+
