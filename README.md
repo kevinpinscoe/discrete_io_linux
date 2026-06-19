@@ -33,13 +33,3 @@ There are discrete I/O boards you can buy for a Linux PC that have many inputs b
 ## Non-Linux
 
 There are off the shelf discrete I/O devices such as the smartDEN IoT MQTT Ethernet 16 Relay Module - DIN RAIL BOX (https://denkovi.com/smartden-iot-mqtt-ethernet-16-relay-module-din-rail-box) but these requite MQTT or so e other messaging software the communicate.  
-
-## Contributing & Reporting Issues
-
-Bug reports, feature requests, security disclosures, and contributions are all
-welcome. I keep these guidelines in one place for all my projects:
-
-- **How to contribute or report an issue:** https://github.com/kevinpinscoe/how-to-contribute
-- **Report a security vulnerability:** do not open a public issue. Use the
-  **"Report a vulnerability"** button on this repository's **Security** tab, or
-  see the [security policy](https://github.com/kevinpinscoe/how-to-contribute/blob/main/SECURITY.md).
